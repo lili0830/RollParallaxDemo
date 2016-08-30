@@ -1,0 +1,24 @@
+{
+	"MotorTechnical":[
+                     {
+                     "itemStr":"ELECTRICMOTOR_ELECTRICMOTOR",
+                     "detailStr":"ELECTRICMOTOR_ELECTRICMOTORVALUE"
+                     },
+                     {
+                     "itemStr":"ELECTRICMOTOR_RATEDOUTPUTPOWER",
+                     "detailStr":"ELECTRICMOTOR_RATEDOUTPUTPOWERVALUE"
+                     },
+                     {
+                     "itemStr":"ELECTRICMOTOR_RATEDSPEED",
+                     "detailStr":"ELECTRICMOTOR_RATEDSPEEDVALUE"
+                     },
+                     {
+                     "itemStr":"ELECTRICMOTOR_RATEDVOLTAGE",
+                     "detailStr":"ELECTRICMOTOR_RATEDVOLTAGEVALUE"
+                     },
+                     {
+                     "itemStr":"ELECTRICMOTOR_RATEDOUTPUTTORQUE",
+                     "detailStr":"ELECTRICMOTOR_RATEDOUTPUTTORQUEVALUE"
+                     }
+                     ]
+}
